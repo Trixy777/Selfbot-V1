@@ -1,0 +1,17 @@
+{
+  "prefix": "$",
+  "color": "2f3136",
+  "allowed": ["754268356886003753", "921354871054147584"],
+  "stream": true,
+  "keep_alive": true,
+  "enableEmbed": true,
+  "logger": "",
+  "music": {
+    "enabled": true,
+    "spotify": {
+      "enabled": false,
+      "clientID": "spotify-client-id",
+      "clientSecret": "spotify-client-secret"
+    }
+  }
+}
